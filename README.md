@@ -14,7 +14,7 @@ I have a PhD in Biological Sciences from the University of Essex, UK. I am a mar
 <img height="32" width="32" src="https://cdn.simpleicons.org/qgis/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/	visualstudiocode/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
 
 ## Coding Languages
 

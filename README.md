@@ -1,28 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=500&size=30&pause=1000&color=F5A0F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Amy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=500&size=40&pause=1000&color=C4A7F7&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Amy+)](https://git.io/typing-svg)
 
 ## About Me
 
 I have a PhD in Biological Sciences from the University of Essex, UK. I am a marine ecologist with a particular interest in tropical coastal ecosystems and extending to deep-sea environments. Focusing on the intersection of people and nature and how data can inform policy and conservation.
 
+<img height="32" width="32" src="https://cdn.simpleicons.org/r/"/> enthusiast, taking on the task of learning new coding languages and technologies to improve my overall skills with working and managing data. 
+
+
 
 - 🔭 I’m currently working on research papers from my PhD ... coming soon 🤞
 - 🌱 I’m currently learning Data Engineering with AI Core 
 
-## My Toolbox
+## 🧰 My Toolbox 🧰
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/rstudio/" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/qgis/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/rstudio/"/> <img height="32" width="32" src="https://cdn.simpleicons.org/qgis/"/> <img height="32" width="32" src="https://cdn.simpleicons.org/git/"/> <img height="32" width="32" src="https://cdn.simpleicons.org/github/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/"/>
 
 ## Coding Languages
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/r/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/r/"/> <img height="32" width="32" src="https://cdn.simpleicons.org/python"/> <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/white"/> <img height="32" width="32" src="https://cdn.simpleicons.org/css3/"/> <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/"/>
+
+
+
 <!--
 **amysw13/amysw13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
